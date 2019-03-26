@@ -1,0 +1,3 @@
+https://www.favicon-generator.org/ pare fazer o icone da aba de navegacao
+
+formato de imagem svg sao melhores escalaveis entao ele se adapta melhor a qualquer dispositivo
